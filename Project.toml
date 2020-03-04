@@ -1,5 +1,2 @@
 [compat]
 julia = "1.2"
-Example = "0.4.3"
-JuMP = "0.21"
-GLPK = "0.12.1"
