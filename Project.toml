@@ -1,3 +1,2 @@
 [compat]
 julia = "1.2"
-JuMP = "0.21"
